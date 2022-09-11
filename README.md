@@ -15,6 +15,8 @@ Sou estudante de economia pela UFMG e sou um entusiasta da Ã¡rea de dados, com Ã
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Emmanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Emmanuel-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  
+  <img align="center" alt="Emmanuel-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
 </div>
 
 
